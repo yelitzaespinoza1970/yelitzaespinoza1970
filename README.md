@@ -30,6 +30,22 @@ Contact form integration
 
 Live website: https://jyglobaltradeusa.com
 
+### 🎓 Skilled E-learning Landing Page
+
+Responsive educational landing page developed using HTML5, Sass (SCSS), JavaScript, and Vite.
+
+Recreated from a Figma design, focusing on accurate visual implementation, responsive components, and a mobile-friendly user experience.
+
+**GitHub Repository:** https://github.com/yelitzaespinoza1970/Skilled-Elearning-Landing-Page
+
+### 🏢 Archesky Business Agency Landing Page
+
+Business agency landing page recreated from a Figma design using HTML5 and CSS3.
+
+Focused on translating a visual design into a structured web page with clean styling and layout.
+
+**GitHub Repository:** https://github.com/yelitzaespinoza1970/Archesky-Business-Agency
+
 ## 📚 Currently Learning
 
 JavaScript
