@@ -18,17 +18,21 @@ Other: Basic web deployment and hosting management
 
 ## 🚀 Featured Project
 
-JY Global Trade LLC — Business Website
+### 🌎 JY Global Trade LLC — Business Website
 
-Designed, developed, and deployed a bilingual business website for an international trade company.
+**Real-world Project | Live Website | Bilingual**
 
-Responsive website built with HTML and CSS
+Designed, developed, and deployed a responsive, bilingual business website for an international trade company.
 
-Spanish and English versions
+**Key Features:**
+- Responsive web design using HTML, CSS, and JavaScript
+- Spanish and English versions
+- Functional contact form integration
+- Live website deployment
 
-Contact form integration
+🌐 **Live Website:** https://jyglobaltradeusa.com
 
-Live website: https://jyglobaltradeusa.com
+💻 **GitHub Repository:** https://github.com/yelitzaespinoza1970/JY-Global-Trade
 
 ### 🎓 Skilled E-learning Landing Page
 
